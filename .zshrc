@@ -48,6 +48,7 @@ ZSH_THEME="bullet-train"
 plugins=(git)
 plugins=(zsh-autosuggestions)
 plugins=(django)
+plugins=(ssh)
 
 # User configuration
 
