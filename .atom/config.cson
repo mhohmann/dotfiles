@@ -1,0 +1,57 @@
+"*":
+  Hydrogen:
+    kernelspec: "{\"kernelspecs\":{\"python3\":{\"spec\":{\"display_name\":\"Python 3\",\"language\":\"python\",\"argv\":[\"/usr/local/opt/python3/bin/python3.5\",\"-m\",\"ipykernel\",\"-f\",\"{connection_file}\"],\"env\":{}},\"resources_dir\":\"/usr/local/lib/python3.5/site-packages/ipykernel/resources\"}}}"
+  "autocomplete-python": {}
+  "autohide-tree-view": {}
+  core:
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    autoIndentOnPaste: false
+    invisibles: {}
+  "exception-reporting":
+    userId: "9761975c-5b2d-a4fa-5881-7ad10427948c"
+  gist:
+    closeOnSave: true
+    token: "29f283753a5e21b402618dd74ee730db7d0f1e73"
+  "git-plus": {}
+  "highlight-selected": {}
+  linter:
+    showErrorPanel: false
+  "linter-matlab":
+    mlintDir: "/Applications/MATLAB_R2015a.app/toolbox/matlab/codetools/mlint.m"
+  "linter-pep8": {}
+  "markdown-pdf": {}
+  "markdown-preview-plus":
+    enableLatexRenderingByDefault: true
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "git-diff": true
+      "highlight-selected": true
+      "minimap-autohide": true
+      pigments: true
+  "one-dark-ui": {}
+  pigments: {}
+  "svg-preview": {}
+  "symbols-tree-view": {}
+  "sync-settings":
+    _analyticsUserId: "752edbe0-c2dc-45a5-8069-7200e42a26cc"
+    _lastBackupHash: "1273792c5c3bb3fb38a142f5291a8a66d7c7a831"
+    analytics: false
+    gistId: "3e669a3846bfd2d4678f"
+    personalAccessToken: "466d547a384e7d6ffaa55408821db227a5a8af14"
+  "terminal-plus":
+    core: {}
+    style: {}
+    toggles: {}
+  "terminal-status": {}
+  todo: {}
+  "todo-show": {}
+  welcome:
+    showOnStartup: false
+".django.python.source":
+  editor:
+    autoIndentOnPaste: true

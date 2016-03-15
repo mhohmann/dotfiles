@@ -1,0 +1,23 @@
+rango:
+  title: "rango"
+  paths: [
+    "/Users/matthiashohmann/Software/rango"
+  ]
+cbci:
+  title: "cbci"
+  paths: [
+    "/Users/matthiashohmann/Profile/dotfiles"
+    "/Users/matthiashohmann/Dropbox/09_Notes"
+  ]
+dotfiles:
+  title: "dotfiles"
+  paths: [
+    "/Users/matthiashohmann/Profile/dotfiles"
+    "/Users/matthiashohmann/Dropbox/09_Notes"
+    "/Users/matthiashohmann/Software/barista"
+  ]
+barista:
+  title: "barista"
+  paths: [
+    "/Users/matthiashohmann/Software/barista"
+  ]
