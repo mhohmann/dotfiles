@@ -12,3 +12,10 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+
+# Atom files
+.atom/storage
+.atom/compile-cache
+.atom/dev
+.atom/.npm
+.atom/.node-gyp
